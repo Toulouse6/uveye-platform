@@ -1,4 +1,4 @@
-## The UVeye Platform:
+## The UVeye Platform
 
 <img align="right" src="./06 - platform-report.png" alt="UVeye Platform Overview" width="350">
 
@@ -26,8 +26,8 @@ Deployed at over 400 locations worldwide, UVeye is trusted by industry leaders l
 - **TypeScript**
 - **CSS3**
 - **HTML5**
-
-- **Bootstrap 5.1.1 Compatible**
+<br>
+- **Bootstrap 5.1.1**
 - **Auto Layout**
 - **Atomic Design**
 
