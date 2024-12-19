@@ -9,7 +9,7 @@ The UVeye platform revolutionizes vehicle inspections with advanced AI, propriet
 
 ---
 
-**Key Features**
+**Key Features:**
 
 - **Automated Diagnostics:** AI-powered inspections with real-time results.
  
@@ -21,7 +21,7 @@ The UVeye platform revolutionizes vehicle inspections with advanced AI, propriet
 
 ---
 
-**Technologies Used:**
+**Technologies:**
 
 - **Angular17**
 - **TypeScript**
