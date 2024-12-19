@@ -6,6 +6,8 @@ The UVeye platform revolutionizes vehicle inspections with advanced AI, propriet
 <br><br>
 Deployed at over 400 locations worldwide, UVeye is trusted by industry leaders like General Motors, Amazon, Volvo Cars, Carmax, and more.
 
+---
+
 **Key Features**
 
 - **Automated Diagnostics:** AI-powered inspections with real-time results.
@@ -31,6 +33,4 @@ Deployed at over 400 locations worldwide, UVeye is trusted by industry leaders l
 - **Auto Layout**
 - **Atomic Design**
 
----
-
-**Author**: Tal Argaman
+**Author: Tal Argaman**
