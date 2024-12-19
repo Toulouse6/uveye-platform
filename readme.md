@@ -26,7 +26,7 @@ Deployed at over 400 locations worldwide, UVeye is trusted by industry leaders l
 - **TypeScript**
 - **CSS3**
 - **HTML5**
-<br>
+
 - **Bootstrap 5.1.1**
 - **Auto Layout**
 - **Atomic Design**
