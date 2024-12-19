@@ -2,9 +2,9 @@
 
 <img align="right" src="./06 - platform-report.png" alt="UVeye Platform Overview" width="350">
 
-The UVeye platform automates vehicle inspections with cutting-edge AI, proprietary hardware, and a user-friendly interface. It ensures fast, accurate diagnostics for safety, quality, and maintenance across industries like automotive, fleet management, and security.
+The UVeye platform revolutionizes vehicle inspections with advanced AI, proprietary hardware, and a seamless, user-friendly interface. It delivers fast and precise diagnostics for safety, quality, and maintenance in industries like automotive, fleet management, and security.
 <br><br>
-With systems deployed at over 400 locations worldwide, UVeye is trusted by industry leaders like General Motors, Amazon, Volvo Cars, Carmax, and many more.
+Deployed at over 400 locations worldwide, UVeye is trusted by industry leaders like General Motors, Amazon, Volvo Cars, Carmax, and more.
 
 **Key Features**
 
