@@ -1,5 +1,5 @@
 ## The UVeye Platform
-**© All right reserved to UVeye INC**
+**© All right reserved to UVeye INC.**
 
 <img align="right" src="./06 - platform-report.png" alt="UVeye Platform Overview" width="350">
 
