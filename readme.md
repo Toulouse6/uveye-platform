@@ -1,4 +1,4 @@
-## The UVeye Website:
+## The UVeye Platform:
 
 <img align="right" src="./platform-overview.gif" alt="UVeye Platform Overview" width="350">
 
