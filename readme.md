@@ -14,9 +14,7 @@ Deployed at over 400 locations worldwide, UVeye is trusted by industry leaders l
  
 - **Intuitive Dashboard:** Actionable insights with clear visual indicators.
 
-- **Seamless UX:** Easy navigation for technicians and managers.
-
-- **Comprehensive Coverage:** Inspects undercarriage, tires, and exterior with precision.
+- **Comprehensive Coverage:** Inspects undercarriage, tires & exterior with precision.
 <br><br>
 **This repository showcases the UVeye Platform through screenshots.**
 
