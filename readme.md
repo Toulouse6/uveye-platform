@@ -1,6 +1,6 @@
 ## The UVeye Platform:
 
-<img align="right" src="./platform-overview.gif" alt="UVeye Platform Overview" width="350">
+<img align="right" src="platform-overview.gif" alt="UVeye Platform Overview" width="350">
 
 UVeye is a computer vision company specializing in automated vehicle inspection powered by AI and proprietary hardware. 
 With systems deployed at over 300 locations worldwide, UVeye is trusted by industry leaders like General Motors, Amazon, Volvo Cars, Carmax, and more.
