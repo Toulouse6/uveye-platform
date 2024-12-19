@@ -1,4 +1,5 @@
 ## The UVeye Platform
+**© All right reserved to UVeye INC**
 
 <img align="right" src="./06 - platform-report.png" alt="UVeye Platform Overview" width="350">
 
@@ -31,6 +32,4 @@ The UVeye platform revolutionizes vehicle inspections with advanced AI, propriet
 - **Auto Layout**
 - **Atomic Design**
 
----
 
-**Author:** Tal Argaman
